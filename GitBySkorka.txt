@@ -47,8 +47,11 @@ musisz wybrać gdzie bo czasami jest kilka branchy kilka scieżek czyli dla main
 git push origin main
 --------------------------------------------------------------------------------
 
+Ostatni punkt użyteczny tylko do współpracy z kimś by pobrać jego dodaną część (jeśli dodał biblioteki powinien powiadomić bo inaczej nie zadziała)
+
+
 7.
 ------------------------------Git Pull (Pobieranie update na gita)---------------
-git pull origin main P
+git pull origin main 
 obierasz aktualizacje tego co zrobili innni do swojego projektu
 --------------------------------------------------------------------------------
