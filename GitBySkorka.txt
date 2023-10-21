@@ -2,19 +2,19 @@
 ------------------------------Git Clone-----------------------------------------
 git clone adres repozytorium inaczej link url jak wejdziesz w repozytorium np:
 git clone https://github.com/DominikSk0rka/Costam
-to kopiuje cały projekt na twój komputer.
+to kopiuje cały projekt na twój komputer. (CZasem trzeba pobrać jeszcze biblioteki bo to nie pobiera)
 -------------------------------------------------------------------------------------------------------------------
 
 
 2.
 ------------------------------Git Init-----------------------------------------
 komenda git init tworzy w folderze gdzie masz projekt twoje repozytorium które bedzie polaczone z gitem, 
-dzieki temu, mozesz wysylac na gita, tworzysz droge którą ma isc program
+dzieki temu, mozesz wysylac na gita, tworzysz droge którą ma isc program (TYLKO PRZY DODANIU REPOZYTORIUM)
 -------------------------------------------------------------------------------------------------------------------
 
 2.1
 ------------------------------Git remote add origin -----------------------------------------
-Dodajesz ścieżke na która mają lądować twoje pliki
+Dodajesz ścieżke na która mają lądować twoje pliki (JEDNORAZOWO PRZY TWORZENIU)
 -------------------------------------------------------------------------------------------------------------------
 
 2.2
