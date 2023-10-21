@@ -1,0 +1,54 @@
+1.
+------------------------------Git Clone-----------------------------------------
+git clone adres repozytorium inaczej link url jak wejdziesz w repozytorium np:
+git clone https://github.com/DominikSk0rka/Costam
+to kopiuje cały projekt na twój komputer.
+-------------------------------------------------------------------------------------------------------------------
+
+
+2.
+------------------------------Git Init-----------------------------------------
+komenda git init tworzy w folderze gdzie masz projekt twoje repozytorium które bedzie polaczone z gitem, 
+dzieki temu, mozesz wysylac na gita, tworzysz droge którą ma isc program
+-------------------------------------------------------------------------------------------------------------------
+
+2.1
+------------------------------Git remote add origin -----------------------------------------
+Dodajesz ścieżke na która mają lądować twoje pliki
+-------------------------------------------------------------------------------------------------------------------
+
+2.2
+------------------------------git branch -m main -----------------------------------------
+zmieniasz gałęź na która mają isc pliki w tym wypadku jest to "main" moze byc "master" itd.
+-------------------------------------------------------------------------------------------------------------------
+
+3. 
+------------------------------git status-----------------------------------------
+sprawdzasz czy cos jest do dodania itp
+-------------------------------------------------------------------------------------------------------------------
+
+
+4.
+------------------------------Git add . (Dodanie)---------------
+Komenda "Git add ." dodaje wszsytkie pliki z twojego projektu "." dodaje wszyskie, jak chcesz tylko jeden to zamiast
+kropki nazwa tego jednego pliku.
+--------------------------------------------------------------------------------
+
+5.
+------------------------------Git commit -m "" (Komentarz)---------------
+Zanim wyślesz pliki na Gita które już zostały "Dodane" w punkcie powyżej musisz nazwać je, jak będzię wyglądał
+komentarz tego update. W miejsce "" wpisujesz jak ma sie nazywać
+--------------------------------------------------------------------------------
+
+6.
+------------------------------Git Push (Wrzucanie update na gita)---------------
+git push wrzucasz na gita pliki
+musisz wybrać gdzie bo czasami jest kilka branchy kilka scieżek czyli dla maina:
+git push origin main
+--------------------------------------------------------------------------------
+
+7.
+------------------------------Git Pull (Pobieranie update na gita)---------------
+git pull origin main P
+obierasz aktualizacje tego co zrobili innni do swojego projektu
+--------------------------------------------------------------------------------
